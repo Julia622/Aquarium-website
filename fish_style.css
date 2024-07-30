@@ -49,7 +49,7 @@ h2{
 }
 
 #text2 h2{
-         margin-left: 670px;
+         margin-left: 650px;
 }
 
 #text2 p{
@@ -60,7 +60,7 @@ h2{
 }
 
 #text2 img{
-          margin-left: 480px;
+          margin-left: 200px;
           width: 600px;
           height: 300px;
 }
@@ -73,7 +73,7 @@ h2{
 }
 
 #text3 img{
-          margin-left: 480px;
+          margin-left: 250px;
           width: 600px;
           height: 300px;
 }
@@ -132,9 +132,7 @@ h2{
 }
 
 #photo5 img{
-           width: 1000px;
-           height: 300px;
-           margin-left: 270px; 
+           margin-left: 450px; 
            margin-bottom: 70px;
 }
 
