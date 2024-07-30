@@ -1,0 +1,146 @@
+body{
+   background-color: black;
+}
+
+h1{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 60px;
+   color: white;
+   margin-top: 70px;
+}
+
+p{
+   color: white;
+   font-size: 20px; 
+
+}
+
+h2{
+   color: white;
+   font-size: 30px;
+   height: 30px;
+}
+
+#menu{
+   background-color: black;
+   width: 250px;
+   float: left;
+}
+
+#menu img{
+         border-radius: 700px;
+         margin-left: 40px;
+         width: 130px; 
+         height: 130px;
+         
+}
+
+#menu a{
+      color: white;
+      text-decoration: none; 
+      font-size: 20px; 
+      margin-left: 20px;
+}
+
+#text1{
+      margin-left: 350px; 
+      text-align: center;
+      width: 900px;
+}
+
+#text2 h2{
+         margin-left: 670px;
+}
+
+#text2 p{
+        margin-left: 330px; 
+        text-align: center; 
+        width: 900px; 
+        height: 50px;
+}
+
+#text2 img{
+          margin-left: 480px;
+          width: 600px;
+          height: 300px;
+}
+
+#text3 p{
+        margin-left: 330px; 
+        text-align: center; 
+        width: 900px; 
+        height: 220px;
+}
+
+#text3 img{
+          margin-left: 480px;
+          width: 600px;
+          height: 300px;
+}
+
+#text3l p{
+         margin-left: 350px; 
+         text-align: center; 
+         width: 900px; 
+         height: 220px;
+}
+
+#text3l img{
+           margin-left: 550px;
+           width: 500px;
+           height:200px;
+}
+
+#text3w p{
+        margin-left: 350px;
+        text-align: center; 
+        width: 900px; 
+        height: 220px;
+}
+
+#text3f p{
+         margin-left: 350px; 
+         text-align: center; 
+         width: 900px; 
+         height: 220px;
+}
+
+#text3f img{
+           margin-left: 480px; 
+           margin-top: 230px; 
+           margin-bottom: 150px;
+           width: 600px;
+           height: 300px;
+}
+
+#example{
+        margin-left: 660px;
+}
+
+
+#line45 p{
+         margin-left: 70px; 
+         text-align: center; 
+         margin-bottom: 110px;
+}
+
+#text4 p{
+       margin-left: 320px; 
+       text-align: center; 
+       width: 900px; 
+       height: 130px;
+}
+
+#photo5 img{
+           width: 1000px;
+           height: 300px;
+           margin-left: 270px; 
+           margin-bottom: 70px;
+}
+
+#text5 p{
+       margin-left: 320px;
+       text-align: center;
+       width: 900px; 
+       height: 130px;
+}
